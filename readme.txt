@@ -1,8 +1,3 @@
 first Change
 
-
-
-:wq
-:quit
-:
-
+seconde Change
