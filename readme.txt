@@ -7,9 +7,7 @@ are insert here
 
 - conflict with master
 
-
-<<<<<<< HEAD
-
+i
 Hello World!
 
 
